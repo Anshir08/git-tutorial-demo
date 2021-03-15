@@ -3,3 +3,5 @@ i want this to commit
 hey there i wannna work on project mypyc
 i am gonna crack gsoc 
 But i really need to speed up my efforts
+Dont waste the fucking time
+
